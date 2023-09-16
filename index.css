@@ -1,0 +1,201 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bowlby+One&display=swap');
+  
+
+h1{
+    
+    font-family:"Rubik Iso";
+    
+    font-family: 'Rubik Iso';
+    
+   font-size:70px;
+} */
+
+  /* @import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap'); */
+  
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+  *{
+    margin:0;
+    padding:0;
+    background-color: rgb(255, 255, 255);
+  }
+
+h1{
+    /* font-family:"Rubik Distressed"; */
+    font-size: 90px;
+    font-family:"Rubik Iso"
+    
+   
+    
+}
+h1{
+    background-color: rgb(162, 176, 184);
+    justify-content: center;
+    text-align: center;
+}
+#iamfirst{
+    display:flex;
+    margin:3px;
+    padding:6px;
+}
+h2{
+    font-size: 33px;
+    font-weight: 200;
+}
+h3{
+    border-bottom: 2px solid black;
+    border-radius: 3px;
+    /* border-color: black; */
+    
+    font-size: 40px;
+    font-weight: 4px;
+}
+/* .jack{
+   font-style: italic;
+} */
+#demo{
+   color:rgb(244, 82, 7);
+   font-weight:7px;
+}
+a:hover {
+    color: red;
+}
+ h1:hover {
+    color: red;
+}
+#iamthird{
+    margin:5px;
+    padding:6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}    
+#demo{
+    margin:5px;
+    padding:5px;
+}    
+#bec{
+    font-size: 30px;
+    background-color: rgb(165, 159, 159);
+  
+}
+#notes1{
+    height:100%;
+    width:100%;
+    /* font-size: 40px; */
+    text-align:center ;
+    justify-content: space-around;
+}
+/* #firstpdf{
+    font-size: 50px;
+} */
+
+/* button.firstpdf:hover{
+    color:rgb(8, 60, 247);
+    font-size: 20px;
+    font-style: oblique;
+
+    
+} */
+.button {
+    background-color: #0bef12; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  button:hover{
+    color:rgb(103, 103, 230);
+    font-size: 17px;
+    
+  }
+.first{
+    background-color: #04ff0c;
+}
+.second{
+    background-color: #bc08cd;
+}
+.third{
+    background-color: #ff2402;
+}
+.forth{
+    background-color: #f9f106;
+}
+.fifth{
+    background-color: #07f4f0;
+}
+.sixth{
+    background-color: #dce70c;
+}
+.seventh{
+    background-color: #4CAF50;
+}
+.eight{
+    background-color: #50c3da;
+}
+.ninth{
+    background-color: #ec6e5b;
+}
+.tenth{
+    background-color: #63ec51;
+}
+.eleventh{
+    background-color: #0ea39e;
+}
+.twelth{
+    background-color: #d408f4;
+}
+.thirteenth{
+    background-color: #f9f106;
+}
+.fifteen{
+    background-color: #ab9223;
+}
+.sixteen{
+    background-color: #d408f4;
+}
+footer {
+    /* text-align: center; */
+    padding: 3px;
+    /* background-color: rgb(66, 118, 76); */
+    color: white;
+    justify-content: flex;
+    
+  }
+  .foot{
+    background-color: #2f3533;
+    justify-content: flex-start;
+    /* justify-content: flex; */
+    /* margin:15px;
+    padding:15px; */
+    text-decoration:none;
+    font-style: italic;
+  }
+  #study{
+    display:flex;
+    font-size: 22px;
+  }
+ #tip{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ #soon{
+    font-style: italic;
+    color: #04ff0c;
+ }
+ /* #alert1{
+    text-decoration:solid;
+    font-size: 12px;
+    font-weight: bolder;
+    color:red;
+    
+    
+ } */
+ span{
+    
+    color:#04ff0c
+  
+ }
