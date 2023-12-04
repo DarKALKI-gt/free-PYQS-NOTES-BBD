@@ -17,6 +17,8 @@ h1{
     margin:0;
     padding:0;
     background-color: rgb(255, 255, 255);
+     overflow: auto;
+    word-wrap: break-word;
   }
 
 h1{
@@ -199,3 +201,22 @@ footer {
     color:#04ff0c
   
  }
+ @media only screen and (max-width: 400px) {
+    
+    h1{
+    font-size: 40px;
+    font-family:"Rubik Iso";}
+    #firstimages{
+        width:100%;
+        height:auto;
+    }
+    #tipsa{
+        width:100%;
+        height:auto;
+    }
+    #hopers{
+        width:100%;
+        height:auto;
+    }
+
+}
